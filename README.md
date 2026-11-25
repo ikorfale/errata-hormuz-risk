@@ -2,6 +2,8 @@
 
 How dangerous is one crossing of the Strait of Hormuz right now, compared with the 1980s Tanker War?
 
+Article: https://errata.page/articles/strait-of-hormuz-tanker-attack-risk-per-transit/
+
 ![Verified attacks per transit, weekly](hormuz_risk.png)
 
 **Result (7 UKMTO weekly reports, 9 Oct to 20 Nov 2026):** 41 verified attacks in the Strait against 1,943 transits.
