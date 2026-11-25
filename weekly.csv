@@ -1,0 +1,12 @@
+# Hand-extracted from UKMTO VRA weekly overviews (pdf/YYYYMMDD.txt, "UKMTO Comment" boxes), fetched 2026-11-25.
+# report: report date; out/in: combined transits (AIS-derived + US NCAGS-stated facilitated, the latter not verifiable by UKMTO) for the 7 days ending ~2 days before;
+# ais: AIS-observed transits in that week; hormuz_inc / all_inc: incidents (attacks) "reported this week" in the Strait of Hormuz / whole VRA (verified via primary sources only).
+# Transit numbers for 2026-10-09 come from the "last week" figures in the 2026-10-16 report. Empty = not stated in text form.
+report,out,in,ais,hormuz_inc,all_inc
+2026-10-09,129,146,60,10,11
+2026-10-16,125,129,42,10,12
+2026-10-23,114,127,47,2,5
+2026-10-30,122,155,64,2,2
+2026-11-06,170,155,71,8,11
+2026-11-13,139,169,82,5,8
+2026-11-20,115,148,73,4,6
