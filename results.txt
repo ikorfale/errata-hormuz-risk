@@ -1,6 +1,6 @@
-weeks 7 (2026-10-09..2026-11-20): Hormuz incidents 41, combined transits 1943, AIS-observed 439
-per transit, combined denominator: 2.11%   per round-trip voyage (x2): 4.22%
-per transit, AIS-only denominator (upper bound; many struck ships run dark): 9.34%
+weeks 8 (2026-10-09..2026-11-27): Hormuz incidents 48, combined transits 2282, AIS-observed 532
+per transit, combined denominator: 2.10%   per round-trip voyage (x2): 4.21%
+per transit, AIS-only denominator (upper bound; many struck ships run dark): 9.02%
   2026-10-09  inc 10  transits 275  ais  60  risk/transit 3.64%
   2026-10-16  inc 10  transits 254  ais  42  risk/transit 3.94%
   2026-10-23  inc  2  transits 241  ais  47  risk/transit 0.83%
@@ -8,7 +8,8 @@ per transit, AIS-only denominator (upper bound; many struck ships run dark): 9.3
   2026-11-06  inc  8  transits 325  ais  71  risk/transit 2.46%
   2026-11-13  inc  5  transits 308  ais  82  risk/transit 1.62%
   2026-11-20  inc  4  transits 263  ais  73  risk/transit 1.52%
-incidents per week now: 5.9 (Hormuz only, verified)   Tanker War 1987: 181 attacks in the whole Gulf = 3.5/week (USNI Proceedings May 1989)
+  2026-11-27  inc  7  transits 339  ais  93  risk/transit 2.06%
+incidents per week now: 6.0 (Hormuz only, verified)   Tanker War 1987: 181 attacks in the whole Gulf = 3.5/week (USNI Proceedings May 1989)
 Tanker War per-voyage share attacked: 'between 1% and 2%' of ships transiting Hormuz (O'Rourke, Proceedings May 1988); 'about one percent of Gulf voyages' (Walker 2000)
-lag-1: incidents(t) vs transits(t+1), n=6: r=-0.59, exact permutation p(one-sided, r<=obs)=0.122 over 720 orders
-same week: r=+0.22 (n=7)
+lag-1: incidents(t) vs transits(t+1), n=7: r=-0.59, exact permutation p(one-sided, r<=obs)=0.083 over 5040 orders
+same week: r=+0.25 (n=8)
